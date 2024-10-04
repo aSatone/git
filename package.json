@@ -11,10 +11,11 @@
   },
   "dependencies": {
     "@element-plus/icons-vue": "^2.3.1",
-    "axios": "^1.7.2",
-    "element-plus": "^1.3.0-beta.5",
+    "axios": "^1.7.7",
+    "element-plus": "^2.8.4",
     "pinia": "^2.1.7",
     "vue": "^3.4.21",
+    "vue-rabbit": "file:",
     "vue-router": "^4.3.0"
   },
   "devDependencies": {
@@ -22,6 +23,6 @@
     "eslint": "^8.57.0",
     "eslint-plugin-vue": "^9.23.0",
     "sass": "^1.77.5",
-    "vite": "^5.2.8"
+    "vite": "^5.4.8"
   }
 }
